@@ -13,3 +13,6 @@ results
 
 npm-debug.log
 node_modules
+
+# Aptana Studio 3
+.project
