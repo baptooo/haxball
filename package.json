@@ -1,0 +1,13 @@
+{
+  "name": "haxball",
+  "version": "0.1.0",
+  "description": "Haxball Js Remake",
+  "repository": "",
+  "author": "baptooo",
+  "main": "app/app.js",
+  "license": "BSD",
+  "devDependencies": {
+    "express": "3.x",
+    "socket.io": "~0.9.16"
+  }
+}
